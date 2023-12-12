@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQHHkW6PeuadHQ/profile-displaybackgroundimage-shrink_350_1400/0/1665159054804?e=1693440000&v=beta&t=vZIWB2Rf1pdF24I2qEw5StDcX4h7qKjCZxEoeN5xqL8)
+![logo](./background.jpg)
 <h1 align="center">Hi 👋, I'm Koshlesh Wandhe</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding">
